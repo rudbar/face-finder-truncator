@@ -17,7 +17,7 @@ For instance, this one is an input:
 
 And on the output we get
 
-<img src="images/demo1.png">
+<img src="images/demo1.PNG">
 
 Alright, sweet. Moving on...
 
